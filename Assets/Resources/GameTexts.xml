@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Texts>
+	<GameOver>
+		<string>Je savais bien que j’étais le plus intelligent.
+		</string>
+		<string>Dommage sa vie va se terminer ici.
+		</string>
+		<string>Tu me déçois Jo.
+		</string>
+		<string>Tu pensais vraiment pouvoir gagner ?
+		</string>
+		<string>Ahaha :D
+		</string>
+		<string>Personne ne peut rivaliser avec moi.
+		</string>
+	</GameOver>
+	<InGameIsLosing>
+		<string>Quelle chance !
+		</string>
+		<string>Tu penses vraiment que ça va suffire ?
+		</string>
+		<string>Je le savais !
+		</string>
+		<string>NON !
+		</string>
+		<string>La chance du débutant on dirait.
+		</string>
+		<string>Hmmm j’aime pas ça.
+		</string>
+	</InGameIsLosing>
+	<InGameWinning>
+		<string>Ahahah trop simple !
+		</string>
+		<string>Tu l’avais pas vu venir celui là !
+		</string>
+		<string>Que dis-tu de coup-là, hein ?
+		</string>
+		<string>Ca va ? Tu arrives à suivre ?
+		</string>
+		<string>Tu devrais mieux assurer tes arrières Jo...
+		</string>
+		<string>Je sens la victoire !
+		</string>
+	</InGameWinning>
+	<HasLoose>
+		<string>T’as eu de la chance sur ce coup-ci...
+		</string>
+		<string>Ca fait quoi de sauver une vie Jo ?
+		</string>
+		<string>Dommage, j’avais vraiment envie de la découper celle là...
+		</string>
+		<string>No comment.
+		</string>
+		<string>Ce n’est qu’une victoire Jo, ne te réjouis pas trop vite.
+		</string>
+		<string>Merde...
+		</string>
+	</HasLoose>
+	<HasDraw>
+		<string>Allez on recommence !
+		</string>
+		<string>Bon et bien c’est reparti...
+		</string>
+		<string>Il semble qu’on ne puisse pas se départager...
+		</string>
+		<string>On dirait que c'est une égalité !
+		</string>
+		<string>Mhh...
+		</string>
+		<string>Je t'aurai...
+		</string>
+	</HasDraw>
+</Texts>

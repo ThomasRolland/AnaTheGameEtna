@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<Transcripts>
+		<Group name="1">
+
+			<string category="tueur">Bonjour JO. Comment tu vas aujourd’hui ?</string>
+
+			<string category="miller">Qui êtes-vous ? Comment avez-vous eu ce numéro ?</string>
+
+			<string category="tueur">Jo jo jo... Tu me déçois beaucoup, où est passé la politesse ? Tant pis, passons les mondanités et entrons dans le vif du sujet.</string>
+
+			<string category="tueur">Vous avez reçu un appel inquiétant ce matin concernant la disparation d’une certaine July. </string><string category="tueur">N’est-ce pas ?</string>
+
+			<string category="miller">Comment avez-vous eu ces informations ? Je vous déconseille de plaisanter avec ça.</string><string category="miller">Déclinez votre identité. Si vous avez des informations, vous devez nous les communiquer sans quoi vous ferez entrave à la justice.</string>
+
+			<string category="tueur">Jo... La seule information que je te donnerai est la suivante : la fille est avec moi et elle respire encore...</string>
+
+			<string category="miller">Mais bien sûr.</string>
+
+		</Group>
+		<Group name="2">				
+			<string category="tueur">Bonjour JO. Tu as reçu mon cadeau ?</string>
+
+			<string category="miller">Espèce de malade. Viens m’affronter en face comme un homme.</string>
+
+			<string category="tueur">C’est là que tu te trompes JO. Je ne suis pas fou. Seul un fou irait t’affronter en face.</string><string category="tueur">Moi tu vois, j’aime plutôt les défis distants et intellectuels.</string>
+
+			<string category="tueur">Il se trouve que j’ai créé un jeu qui te permettra de peut-être sauver des vies, et surtout de mesurer ton intelligence à la mienne.</string>
+
+			<string category="tueur">Il est dit qu’aucune affaire ne résiste au bon vieux Jo Miller. J’aimerai voir ça...</string><string category="tueur">Je te propose de mesurer nos intelligences. Qu’en dis-tu ?</string>
+
+			<string category="miller">J’en dis qu’il faut que tu ailles te faire soigner espèce de taré !</string>
+
+			<string category="tueur">Jo, il faut vraiment que je t’envoie une autre boîte ?</string><string category="tueur">Tu vas bientôt recevoir un appel au Commissariat à propos d’une certaine Anne...</string><string category="tueur">Sa maman s’inquiète tu sais... Tu peux la sauver mais pour ça deux choses :</string>
+
+			<string category="tueur">1) Tu dois accepter mon défi.</string>
+
+			<string category="tueur">2) Tu dois me battre.</string>
+		</Group>
+		<Group name="3">				
+			<string category="tueur">Bien commençons alors !</string>
+
+			<string category="tueur">Quand tu es prêt tu n’auras qu’à cliquer sur le jeu pour le lancer !</string>
+		</Group>
+		<Group name="4">				
+			<string category="tueur">Bonjour JO. Alors je t’ai manqué ?</string>
+
+			<string category="miller">J’espérais que tu sois mort.</string>
+
+			<string category="tueur">Jo, ne me raconte pas de bétises. Je sais bien que tu t’ennuyais ! Bref, tu sais ce qui m’amène à nouveau n’est ce pas ?</string>
+
+			<string category="miller">J’ai vérifié, aucune disparition n’a été signalée.</string>
+
+			<string category="tueur">C’est bien normal JO... Car qui signalerait la disparition d’une fille des rues ?</string>
+
+			<string category="miller">Putain sale bâtard. T’as enlevé une prostituée, pourquoi ?</string>
+
+			<string category="tueur">Parce c’est ton indic, et que tu lui as demandé d’être à l’affût d’informations à mon sujet. </string><string category="tueur">C’est ta faute Jo. Mais tu peux encore la sauver.</string>
+
+			<string>Aline...</string>
+		</Group>
+		<Group name="5">				
+			<string category="tueur">Jo. 3 semaines déjà depuis la dernière fois.</string>
+
+			<string category="miller">A croire que tu te ramollis ordure.</string>
+
+			<string category="tueur">Tu crois peut-être que j’agis sous le coup de mes émotions ? Mais pour être efficace il faut tout planifier et ça prend du temps...</string>
+
+			<string category="miller">Envoie ton jeu que je te prouve que tu n’es pas de taille.</string>
+
+			<string category="tueur">Tu commences à aimer ça on dirait ?</string>
+
+			<string category="miller">Ne raconte pas de conneries.</string>
+		</Group>
+		<Group name="6">				
+			<string category="tueur">Une petite partie JO ?</string>
+
+			<string category="miller">Et si je refuse ?</string>
+
+			<string category="tueur">Jo tu as déjà oublié ? Tu veux recevoir une jolie boîte ?</string>
+
+			<string category="miller">Bientôt je t’arreterai sois en sûr.</string>
+
+			<string category="tueur">Ok Jo, rassure-toi comme tu peux... En attendant tu sais que tu dois gagner...</string>
+		</Group>
+		<Group name="7">				
+			<string category="miller">T’as fini par crever ordure ?</string>
+
+			<string category="tueur">Je savais que tu te prendrai au jeu JO. J’attendais que tu te réveilles.</string>
+
+			<string category="miller">Malheureusement, tu es encore de ce monde. Ne te méprends pas sur mes intentions.</string><string category="miller">Je vérifiais juste si tu respirais encore, hélas oui...</string>
+
+			<string category="tueur">Je t’ai préparé quelque chose de spécial cette fois.</string>
+
+			<string category="miller">Sarah !!! Tu vas me le payer.</string>
+
+			<string category="tueur">Il faudrait déjà que tu m’attrapes. Bon allez commençons.</string>
+		</Group>
+		<Group name="8">				
+			<string category="tueur">Hey Jo t’es prêt ?</string>
+		</Group>
+		<Group name="9">				
+			<string category="tueur">Ahaha Jo me revoilà !</string>
+
+			<string category="miller">Qu’est-ce qui te fait rire sale pervers ?</string>
+
+			<string category="tueur">J’imagine ta tête. La vieille peau a dû te dire que j’étais quelqu’un de précieux.</string><string category="tueur">Et toi, vu les informations que tu as, tu dois te dire que je suis quelqu’un du commissariat. J’ai raison n’est-ce pas ?</string>
+
+			<string category="miller">Envoie ton jeu, on fera la causette quand tu seras derrière les barreaux.</string>
+
+			<string category="tueur">Comme tu voudras Miller.</string>
+		</Group>
+		<Group name="10">				
+			<string category="tueur">Tu verrais cette frimousse si mignonne et apeurée. Tu aimes les rousses ?</string>
+
+			<string category="miller">Si tu la touches... tu vas le regretter...</string>
+
+			<string category="tueur">Pour qui me prends-tu !? Je suis pas un violeur. Moi je tue c’est tout... Bref, allons-y.</string>
+		</Group>
+		<Group name="11">				
+			<string category="tueur">Tu connais la musique maintenant Jo.</string>
+		</Group>
+		<Group name="12">				
+			<string category="tueur">Alors ta petite Manon t’as bien distraite ? Tu te demandes comment je peux savoir hein ? Et bien tu vois elle est avec moi là, et elle sera l’enjeu de notre nouvelle partie.</string>
+
+			<string category="miller">C’est impossible ! J’étais avec elle hier. Tu bluffes enfoiré !</string>
+
+			<string category="tueur">Tu sais Jo, je ne fais pas ça pour rien... Et non! je ne bluffe pas.</string>
+
+			<string category="tueur">Tu veux vérifier ?</string>
+		</Group>
+		<Group name="13">				
+			<string category="tueur">Alors Jo, vous avez fêté vos retrouvailles avec Manon ?</string>
+
+			<string category="miller">Sale pourriture, t’as dû sacrement dégusté durant l’enfance pour agir comme ça.</string>
+
+			<string category="tueur">Héhé désolé de te décevoir mais la réponse est non. J’ai des motivations plus terre à terre. Allez, assez parlé JO.</string>
+		</Group>
+		<Group name="14">
+			<string category="tueur">Hey Jo, la forme ? Aurélie Simon ça te parle non ?</string>
+
+			<string category="miller">Tu t’acharnes sur des filles que je connais ou que j’ai fréquentées ? Tu m’en veux on dirait ?</string>
+
+			<string category="tueur">C’est possible Jo, en effet... Mais ne crois pas que je te livre quelconque information sur moi-même...Ou sur mes motivations.</string>
+		</Group>
+		<Group name="15">
+			<string category="tueur">Ah Agathe... elle m’a donné du fil à retordre celle-là. Un esprit combattant.</string>
+
+			<string category="miller">Tu sais que tout ça aura une fin ? Tu ne pourras pas continuer comme ça éternellement.</string><string category="miller">Il n’y a qu’une issue possible, à savoir ton arrestation, ce n’est qu’une question de temps...</string>
+
+			<string category="tueur">C’est possible Jo, en effet. Mais en attendant tu devrais te soucier d’Agathe...</string>
+		</Group>
+		<Group name="16">
+			<string category="tueur">Charlène. Tu savais que ça venait du latin Karolus inspiré du mot germanique Karl signifiant « homme, force, vigueur, ardeur... »</string><string category="tueur">Pourtant après avoir vérifié, je peux te dire que c’est bien une femme !</string>
+
+			<string category="miller">Salaud, tu fais dans le viol maintenant ? Tu sais qu’en prison les violeurs ne font pas de vieux os.</string>
+
+			<string category="tueur">Allons Jo, je ne l’ai pas touché, j’ai juste regardé un peu ! Tu m’a pris pour qui ? Plutôt que d’essayer de m’arrêter, tu devrais essayer de la sauver.</string>
+		</Group>
+		<Group name="17">				
+			<string category="tueur">Malika quel beau prénom pour un si joli visage :-). Elle sera encore plus belle une fois sa tête rangée dans une boîte.</string>
+
+			<string category="miller">T’en as pas marre de perdre à ton petit jeu ? Tu voulais savoir qui était le plus intelligent ?</string><string category="miller">Je crois que c’est bon, on sait que je suis au dessus.</string>
+
+			<string category="tueur">Attention Jo, ne m’énerve pas trop, tu risquerais de le regretter.</string>
+		</Group>
+		<Group name="18">				
+			<string category="tueur">Hello Jo, ça fait un bail. Tu croyais que j’étais mort ? Hélas non ! :D</string>
+
+			<string category="miller">Je savais que tu reviendrais tôt ou tard, les ordures dans ton genre ont la peau dure.</string>
+
+			<string category="tueur">Cette fois notre chère amie est Kiné. Ca te dit sans doute quelque chose ?</string>
+
+			<string category="miller">Espèce de taré, t’as enlevé Vanessa ?</string>
+
+			<string category="tueur">Faut croire !</string>
+		</Group>
+		<Group name="19">				
+			<string category="miller">Je sais qui tu es trou du cul.</string>
+
+			<string category="tueur">Woa c’est inhabituel. C’est toi qui me contactes cette fois ? Remarque, j’allais revenir vers toi ça tombe bien.</string>
+
+			<string category="tueur">Et bien qui suis-je ?</string>
+
+			<string category="miller">Ne crois pas que je vais te dire ça maintenant. Ca te rendrait beaucoup trop prudent. Je te tomberai dessus par surprise !</string>
+
+			<string category="tueur">Intéressant... assez parlé.</string>
+		</Group>
+		<Group name="20">
+			<string category="tueur">Alors Jo, on a retrouvé sa petite Chloé ?</string>
+
+			<string category="miller">Pourquoi t’en prendre à une fille qui ne fait pas partie de mon entourage cette fois ?</string>
+
+			<string category="tueur">Comment ça ? Bien sûr qu’elle fait partie de ton entourage, c’est ta fille.</string>
+
+			<string category="miller">Mais qu’est ce que tu racontes.</string>
+
+			<string category="tueur">Oups c’est vrai tu n’es pas au courant. Natasha... Elle n’a jamais voulu te dire qu’elle était enceinte.</string><string category="tueur">Regarde la Miller c’est ton portrait tout craché.</string>
+		</Group>
+		<Group name="21">
+			<string category="tueur">Alors Jo ça te fait quoi d’être père ?</string>
+
+			<string category="miller">Va au diable.</string>
+
+			<string category="tueur">Je vois que tu n’es pas très locasse aujourd’hui...</string>
+
+			<string category="tueur">J’aurai aimé moi, tu vois, avoir des enfants mais les choses ont mal tournées...</string><string category="tueur">Il faut être deux pour en faire... bref, en attendant de jouer au papounet Jo...</string>
+		</Group>
+		<Group name="22">
+			<string category="tueur">J’adore ce prénom : Camille.</string>
+
+			<string category="miller">La seule Camille que je connaisse est en Argentine. Impossible que tu la détiennes.</string>
+
+			<string category="tueur">Tu es sûr ? Vérifions alors.</string>
+		</Group>
+		<Group name="23">
+			<string category="tueur">Bien Jo. Surpris de me revoir ?</string>
+
+			<string category="miller">Impossible !</string>
+
+			<string category="tueur">Quoi tu es avec Damien en ce moment même c’est ça ?</string>
+
+			<string category="miller">De quoi tu parles ?</string>
+
+			<string category="tueur">Arrête Miller, le mensonge c’est pas fait pour toi. Tu penses que je suis Damien ? Et bien on dirait que tu t’es trompé...</string>
+		</Group>
+		<Group name="24">
+			<string category="tueur">Deux pour le prix d’une c’est pas mal hein ?</string>
+
+			<string category="miller">Explique toi.</string>
+
+			<string category="tueur">Une belle paire de Jumelles.</string>
+
+			<string category="miller">Louise et Louisa...</string>
+
+			<string category="tueur">Exactement. Les jumelles surdouées que tu as sauvé l’été dernier. On dirait qu’elles ont encore besoin de toi.</string>
+		</Group>
+		<Group name="25">
+			<string category="tueur">Jo, relâche ce pauvre Damien.</string>
+
+			<string category="miller">J’avais vu juste vous êtes deux.</string>
+
+			<string category="tueur">En effet.</string>
+
+			<string category="miller">Je le relâcherai si tu te rends.</string>
+
+			<string category="tueur">Je te propose plutôt une rencontre dans un lieu neutre.</string>
+
+			<string category="tueur">Que tous les deux.</string>
+
+			<string category="miller">Donne moi l’adresse qu’on en finisse.</string>
+
+			<string category="tueur">Sur les docks, hangar 13.</string>
+
+			<string category="miller">J’arrive.</string>
+		</Group>
+	</Transcripts>
